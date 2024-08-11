@@ -9,4 +9,6 @@ This analysis focuses on evaluating the sales performance of a cafe by examining
 - Found key metrics like, orders per day, quantity sold, total revenue generated, peak sales time and many more.
 - I used a table to represent product wise profits from every store location, this table can be used as filter in the dashboard to get values for a product from a store loaction.
 - Used another filter option on store location to get values related to that store location.
-
+> [!NOTE]
+> If you'd like to see the interactive version, you can visit my Tableau profile. The link to dashboard is given below.
+> https://public.tableau.com/app/profile/mounika.macharla/viz/CafeSales_17230279537800/Dashboard1
